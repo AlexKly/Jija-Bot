@@ -1,0 +1,6 @@
+# non-toxic, insult, obscenity, threat, dangerous:
+BERT_LABELS = {0: 'NORMAL', 1: 'INSULT', 2: 'OBSCENITY', 3: 'THREAT', 4: 'DANGEROUS'}
+BERT_PROB_THRESHOLD = 0.65
+COS_SIM_THRESHOLD = 0.65
+CANDIDATE_NOT_FOUND, CANDIDATE_IS_FOUND = False, True
+DEVICE = 'cpu'
