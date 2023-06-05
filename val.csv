@@ -1,0 +1,297 @@
+value,label
+"ул. Ленина, д. 10, кв. 56, г. Москва, Россия",DMN_ADDRESS
+"ул. Пушкина, д. 5, кв. 23, г. Санкт-Петербург, Россия",DMN_ADDRESS
+"ул. Гагарина, д. 15, кв. 7, г. Новосибирск, Россия",DMN_ADDRESS
+"ул. Ленина, д. 10, кв. 45, г. Москва, Россия",DMN_ADDRESS
+"пер. Садовый, д. 3, кв. 12, г. Новосибирск, Россия",DMN_ADDRESS
+"ул. Гагарина, д. 15, кв. 7, г. Екатеринбург, Россия",DMN_ADDRESS
+"ул. Профсоюзная, д. 20, кв. 31, г. Казань, Россия",DMN_ADDRESS
+"пр-т Ленинградский, д. 7, кв. 56, г. Ростов-на-Дону, Россия",DMN_ADDRESS
+"ул. Красноармейская, д. 12, кв. 8, г. Владивосток, Россия",DMN_ADDRESS
+"пер. Строителей, д. 4, кв. 17, г. Краснодар, Россия",DMN_ADDRESS
+"ул. Советская, д. 25, кв. 6, г. Самара, Россия",DMN_ADDRESS
+"ул. Лермонтова, д. 8, кв. 3, г. Уфа, Россия",DMN_ADDRESS
+"Ставропольский край, р-н. Александровский, с. Александровское, ул. Войтика, д. 31",DMN_ADDRESS
+"Краснодарский край, р-н. Красноармейский, г. Краснодар, ул. Ленина, д. 15",DMN_ADDRESS
+"Ростовская обл., г. Ростов-на-Дону, ул. Большая Садовая, д. 12",DMN_ADDRESS
+"Краснодарский край, р-н. Кавказский, пос. Кавказский, ул. Центральная, д. 5",DMN_ADDRESS
+"Республика Крым, г. Симферополь, ул. Кирова, д. 23",DMN_ADDRESS
+"Московская область, г. Королев, ул. Кирова, д. 10",DMN_ADDRESS
+"Санкт-Петербург, пр. Невский, д. 25",DMN_ADDRESS
+"Ростовская область, г. Ростов-на-Дону, ул. Социалистическая, д. 56",DMN_ADDRESS
+"Нижегородская область, г. Нижний Новгород, ул. Большая Покровская, д. 18",DMN_ADDRESS
+"Московская область, г. Красногорск, ул. Мира, д. 15",DMN_ADDRESS
+"Санкт-Петербург, пр. Невский, д. 50",DMN_ADDRESS
+"Краснодарский край, г. Сочи, ул. Ленина, д. 10",DMN_ADDRESS
+"Республика Татарстан, г. Казань, ул. Баумана, д. 20",DMN_ADDRESS
+"Новосибирская область, г. Новосибирск, ул. Кирова, д. 30",DMN_ADDRESS
+"Ставропольский край, р-н. Буденновский, г. Буденновск, ул. Агрономическая (ПОСС), д. 5",DMN_ADDRESS
+"Лесная ул., д. 5, кв. 176, Москва, Россия, 125075",DMN_ADDRESS
+"ул. Красноармейская, д. 15, кв. 25, Санкт-Петербург, Россия, 190000",DMN_ADDRESS
+"пр. Ленина, д. 20, кв. 60, Казань, Россия, 420000",DMN_ADDRESS
+"ул. Гагарина, д. 10, кв. 25, Санкт-Петербург, Россия, 190000",DMN_ADDRESS
+"пр. Ленина, д. 50, кв. 12, Нижний Новгород, Россия, 603000",DMN_ADDRESS
+"ул. Кирова, д. 15, кв. 8, Екатеринбург, Россия, 620000",DMN_ADDRESS
+"пер. Садовый, д. 3, кв. 7, Краснодар, Россия, 350000",DMN_ADDRESS
+"ул. Комсомольская, д. 20, кв. 45, Казань, Россия, 420000",DMN_ADDRESS
+"ул. Пушкина, д. 10, кв. 5, Москва, Россия, 101000",DMN_ADDRESS
+"пр. Советский, д. 25, кв. 8, Самара, Россия, 443000",DMN_ADDRESS
+"ulitsa Lesnaya, 5, kv. 176, Moscow, Russia, 125075",DMN_ADDRESS
+"ulitsa Tverskaya, 10, kv. 25, Moscow, Russia, 125009",DMN_ADDRESS
+"prospekt Nevsky, 50, kv. 12, St. Petersburg, Russia, 191025",DMN_ADDRESS
+"ulitsa Lenina, 15, kv. 8, Ekaterinburg, Russia, 620014",DMN_ADDRESS
+"ulitsa Gorkogo, 3, kv. 7, Kazan, Russia, 420111",DMN_ADDRESS
+"prospekt Mira, 20, kv. 45, Novosibirsk, Russia, 630007",DMN_ADDRESS
+"улица Красноармейская, 20, кв. 10, Минск, Беларусь, 220030",DMN_ADDRESS
+"улица Ленина, 5, кв. 15, Киев, Украина, 01001",DMN_ADDRESS
+"ulitsa Pobedy, 13, kv. 7, Minsk, Belarus, 220020",DMN_ADDRESS
+"prospekt Svobody, 25, kv. 12, Lviv, Ukraine, 79000",DMN_ADDRESS
+"улица Городская, 10, кв. 8, Одесса, Украина, 65000",DMN_ADDRESS
+Адрес Адыгея Республика Кошехабльский Район Вольное Село Виноградная Улица,DMN_ADDRESS
+"клх Обоянь, пер. Лунный, д. 714 стр. 11, 310071",DMN_ADDRESS
+"пр. Станционный, д. 6/1",DMN_ADDRESS
+"п. Кириши, ул. Высокая, д. 18, 627667",DMN_ADDRESS
+"к. Красновишерск, бул. Боровой, д. 1 к. 513, 392237",DMN_ADDRESS
+"д. Катав-Ивановск, пер. Киевский, д. 7/8 стр. 9, 496150",DMN_ADDRESS
+"ст. Сосьва (Хант.), бул. Металлургов, д. 1/6, 403816",DMN_ADDRESS
+"п. Оха, пр. Суворова, д. 59, 960189",DMN_ADDRESS
+"д. Россошь, пр. Павлова, д. 662, 540041",DMN_ADDRESS
+"пр. Монтажников, д. 3 к. 2",DMN_ADDRESS
+"с. Новый Оскол, бул. Нагорный, д. 9/1, 460784",DMN_ADDRESS
+"клх Подольск, алл. Интернациональная, д. 7 стр. 3/3, 767927",DMN_ADDRESS
+"ш. Маяковского, д. 888 стр. 5/5",DMN_ADDRESS
+"к. Москва, МГУ, ул. Придорожная, д. 3/9, 394095",DMN_ADDRESS
+"алл. Ивановская, д. 473 к. 40",DMN_ADDRESS
+"наб. Кубанская, д. 113 к. 409",DMN_ADDRESS
+"с. Кажим, бул. З.Космодемьянской, д. 8/9, 593653",DMN_ADDRESS
+"бул. Вишневый, д. 5",DMN_ADDRESS
+"ст. Тулун, ул. Маяковского, д. 781 к. 62, 224714",DMN_ADDRESS
+"д. Ступино, наб. Гайдара, д. 2, 303234",DMN_ADDRESS
+"пр. Больничный, д. 4 к. 381",DMN_ADDRESS
+Ульяновская обл.,DMN_REGION
+Ханты-Мансийский АО,DMN_REGION
+Ненецкий АО,DMN_REGION
+Тюменская обл.,DMN_REGION
+Астраханская обл.,DMN_REGION
+Алтайский край,DMN_REGION
+респ. Мордовия,DMN_REGION
+респ. Башкортостан,DMN_REGION
+респ. Марий-Эл,DMN_REGION
+Краснодарский край,DMN_REGION
+Ямало-Ненецкий АО,DMN_REGION
+Чукотский АО,DMN_REGION
+Хабаровский край,DMN_REGION
+Чукотский АО,DMN_REGION
+респ. Ингушетия,DMN_REGION
+Чукотский АО,DMN_REGION
+Ямало-Ненецкий АО,DMN_REGION
+респ. Калмыкия,DMN_REGION
+респ. Бурятия,DMN_REGION
+Алтайский край,DMN_REGION
+Московская область,DMN_REGION
+Ленинградская область,DMN_REGION
+Республика Башкортостан,DMN_REGION
+Свердловская область,DMN_REGION
+Нижегородская область,DMN_REGION
+Республика Крым,DMN_REGION
+Краснодарский край,DMN_REGION
+Тюменская область,DMN_REGION
+Самарская область,DMN_REGION
+Челябинская область,DMN_REGION
+Республика Татарстан,DMN_REGION
+Гражданин проживает в Пензенской области,DMN_REGION
+Компания зарегистрирована в Красноярском крае,DMN_REGION
+Житель переехал из Ростовской области в Москву,DMN_REGION
+Клиент проживает в Республике Татарстан,DMN_REGION
+Организация осуществляет деятельность в Челябинской области,DMN_REGION
+Сотрудник работает в Иркутской области,DMN_REGION
+Производство расположено в Новосибирской области,DMN_REGION
+Жительница проживает в Республике Саха (Якутия),DMN_REGION
+Компания зарегистрирована в Пермском крае,DMN_REGION
+Сотрудник работает в Омской области,DMN_REGION
+Клиент проживает в Хабаровском крае,DMN_REGION
+Прохладный,DMN_CITY
+Бронницы,DMN_CITY
+Абакан,DMN_CITY
+Тихвин,DMN_CITY
+Камень-на-Оби,DMN_CITY
+Устюжна,DMN_CITY
+Березники,DMN_CITY
+Джубга,DMN_CITY
+Игнашино,DMN_CITY
+Беслан,DMN_CITY
+Магадан,DMN_CITY
+Новая Игирма,DMN_CITY
+Ессентуки,DMN_CITY
+Диксон,DMN_CITY
+Якша,DMN_CITY
+Нижний Тагил,DMN_CITY
+Новая Игирма,DMN_CITY
+Туруханск,DMN_CITY
+Старый Оскол,DMN_CITY
+Борзя,DMN_CITY
+Герод-герой Новороссийск,DMN_CITY
+Столица страны - Москва,DMN_CITY
+Город-герой Волгоград,DMN_CITY
+Крупнейший город на Урале - Екатеринбург,DMN_CITY
+Главный город Дальнего Востока - Владивосток,DMN_CITY
+Город-курорт Сочи,DMN_CITY
+Известный культурный центр - Казань,DMN_CITY
+Главный порт страны - Новороссийск,DMN_CITY
+Столица региона - Владикавказ,DMN_CITY
+Krasnodar - yuzhnaya stolitsa strani,DMN_CITY
+Novosibirsk - serdtse Sibiri,DMN_CITY
+Kazan - kulturnaya stolitsa kraya,DMN_CITY
+Samara - gorod na Volge,DMN_CITY
+Rostov-na-Donu - yuzhnyi krai strani,DMN_CITY
+Ufa - stolitsa regiona,DMN_CITY
+Sochi - kurortnyi gorod na Chernom more,DMN_CITY
+Voronezh - gorod na Donu,DMN_CITY
+Kaliningrad - zapadnaya okraina nashey strani,DMN_CITY
+Восточный Тимор,DMN_COUNTRY
+Либерия,DMN_COUNTRY
+Кения,DMN_COUNTRY
+Сан-Марино,DMN_COUNTRY
+Коста-Рика,DMN_COUNTRY
+Камерун,DMN_COUNTRY
+США,DMN_COUNTRY
+Демократическая Республика Конго,DMN_COUNTRY
+Восточный Тимор,DMN_COUNTRY
+Белоруссия,DMN_COUNTRY
+Саудовская Аравия,DMN_COUNTRY
+Мальдивы,DMN_COUNTRY
+Антигуа и Барбуда,DMN_COUNTRY
+Исландия,DMN_COUNTRY
+Лесото,DMN_COUNTRY
+Доминиканская Республика,DMN_COUNTRY
+Багамские Острова,DMN_COUNTRY
+Мавритания,DMN_COUNTRY
+Нигерия,DMN_COUNTRY
+Ботсвана,DMN_COUNTRY
+КИТАЙ,DMN_COUNTRY
+США,DMN_COUNTRY
+ИНДИЯ,DMN_COUNTRY
+БРАЗИЛИЯ,DMN_COUNTRY
+КАНАДА,DMN_COUNTRY
+АВСТРАЛИЯ,DMN_COUNTRY
+МЕКСИКА,DMN_COUNTRY
+ФРАНЦИЯ,DMN_COUNTRY
+ГЕРМАНИЯ,DMN_COUNTRY
+ЯПОНИЯ,DMN_COUNTRY
+ИТАЛИЯ,DMN_COUNTRY
+ИСПАНИЯ,DMN_COUNTRY
+ЮЖНАЯ КОРЕЯ,DMN_COUNTRY
+САУДОВСКАЯ АРАВИЯ,DMN_COUNTRY
+ТУРЦИЯ,DMN_COUNTRY
+бул. Новостройка,DMN_STREET
+наб. Киевская,DMN_STREET
+пр. Таманский,DMN_STREET
+пер. Победы,DMN_STREET
+бул. Коммунистический,DMN_STREET
+бул. Уральский,DMN_STREET
+бул. Высотный,DMN_STREET
+пер. Трактовый,DMN_STREET
+пер. Казанский,DMN_STREET
+алл. Кузнецкая,DMN_STREET
+ул. Клары Цеткин,DMN_STREET
+пер. Зеленый,DMN_STREET
+бул. Тенистый,DMN_STREET
+бул. Волкова,DMN_STREET
+бул. Казанский,DMN_STREET
+ш. Братское,DMN_STREET
+наб. 1 Мая,DMN_STREET
+ул. Весенняя,DMN_STREET
+пер. Щорса,DMN_STREET
+алл. Болотная,DMN_STREET
+УЛ. ПИОНЕРСКАЯ,DMN_COUNTRY
+УЛ. ЛЕНИНА,DMN_STREET
+ПЛ. ПОБЕДЫ,DMN_STREET
+ПРОСПЕКТ МИРА,DMN_STREET
+УЛ. КОМСОМОЛЬСКАЯ,DMN_STREET
+ПЕР. ЗЕЛЕНЫЙ,DMN_STREET
+УЛ. СОВЕТСКАЯ,DMN_STREET
+ПРОСПЕКТ ЛЕНИНА,DMN_STREET
+ПЕР. ЦЕНТРАЛЬНЫЙ,DMN_STREET
+УЛ. ГАГАРИНА,DMN_STREET
+ПЛ. РЕВОЛЮЦИИ,DMN_STREET
+Ия,DMN_FIRST_NAME
+Гедеон,DMN_FIRST_NAME
+Надежда,DMN_FIRST_NAME
+Автоном,DMN_FIRST_NAME
+Клавдий,DMN_FIRST_NAME
+Агафон,DMN_FIRST_NAME
+Болеслав,DMN_FIRST_NAME
+Радислав,DMN_FIRST_NAME
+Юлий,DMN_FIRST_NAME
+Тимур,DMN_FIRST_NAME
+Терентий,DMN_FIRST_NAME
+Любовь,DMN_FIRST_NAME
+Всеслав,DMN_FIRST_NAME
+Венедикт,DMN_FIRST_NAME
+Валерия,DMN_FIRST_NAME
+Ипат,DMN_FIRST_NAME
+Онуфрий,DMN_FIRST_NAME
+Агафья,DMN_FIRST_NAME
+Серафим,DMN_FIRST_NAME
+Лучезар,DMN_FIRST_NAME
+Третьяков,DMN_LAST_NAME
+Дроздов,DMN_LAST_NAME
+Третьяков,DMN_LAST_NAME
+Мясникова,DMN_LAST_NAME
+Гуляева,DMN_LAST_NAME
+Григорьева,DMN_LAST_NAME
+Беспалов,DMN_LAST_NAME
+Анисимов,DMN_LAST_NAME
+Ситников,DMN_LAST_NAME
+Селиверстова,DMN_LAST_NAME
+Коновалова,DMN_LAST_NAME
+Титов,DMN_LAST_NAME
+Дементьев,DMN_LAST_NAME
+Родионов,DMN_LAST_NAME
+Орлова,DMN_LAST_NAME
+Мухин,DMN_LAST_NAME
+Кабанов,DMN_LAST_NAME
+Никитин,DMN_LAST_NAME
+Шаров,DMN_LAST_NAME
+Самойлова,DMN_LAST_NAME
+Гаврилович,DMN_MIDDLE_NAME
+Анисимович,DMN_MIDDLE_NAME
+Федосеевич,DMN_MIDDLE_NAME
+Гурьевич,DMN_MIDDLE_NAME
+Архиповна,DMN_MIDDLE_NAME
+Терентьевич,DMN_MIDDLE_NAME
+Гертрудович,DMN_MIDDLE_NAME
+Владиленович,DMN_MIDDLE_NAME
+Богдановна,DMN_MIDDLE_NAME
+Никифоровна,DMN_MIDDLE_NAME
+Артемовна,DMN_MIDDLE_NAME
+Викторовна,DMN_MIDDLE_NAME
+Игнатович,DMN_MIDDLE_NAME
+Георгиевич,DMN_MIDDLE_NAME
+Юльевна,DMN_MIDDLE_NAME
+Валерьевич,DMN_MIDDLE_NAME
+Владиленович,DMN_MIDDLE_NAME
+Герасимович,DMN_MIDDLE_NAME
+Ермолаевич,DMN_MIDDLE_NAME
+Викентьевич,DMN_MIDDLE_NAME
+Антонин Федотович Осипов,DMN_FIO
+Азарий Анисимович Федотов,DMN_FIO
+Беляев Чеслав Гурьевич,DMN_FIO
+Владимир Дмитриевич Хохлов,DMN_FIO
+Аверкий Викентьевич Харитонов,DMN_FIO
+Светлана Валентиновна Богданова,DMN_FIO
+тов. Фомичев Панкратий Архипович,DMN_FIO
+Дементьев Никита Богданович,DMN_FIO
+Попов Эраст Ермолаевич,DMN_FIO
+Ермил Игнатьевич Громов,DMN_FIO
+Капитон Жоресович Уваров,DMN_FIO
+Алексеева Антонина Ждановна,DMN_FIO
+Акулина Натановна Копылова,DMN_FIO
+Михей Дорофеевич Никифоров,DMN_FIO
+Вера Валентиновна Михеева,DMN_FIO
+Радован Тарасович Кулагин,DMN_FIO
+Нестеров Аникей Богданович,DMN_FIO
+Антонина Яковлевна Устинова,DMN_FIO
+г-н Аксенов Максимильян Эдгарович,DMN_FIO
+Владимиров Радован Филимонович,DMN_FIO
+Родина А.С. Пушкина - Санкт-Петербург,DMN_SYMBOLS
